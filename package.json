@@ -1,0 +1,24 @@
+{
+  "name": "12306-book-tickets",
+  "version": "1.0.0",
+  "description": "12306 抢票软件",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzl7/12306-book-tickets.git"
+  },
+  "keywords": [
+    "12306",
+    "book",
+    "tickets"
+  ],
+  "author": "zzl7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzl7/12306-book-tickets/issues"
+  },
+  "homepage": "https://github.com/zzl7/12306-book-tickets#readme"
+}
