@@ -1,0 +1,26 @@
+.wec{
+    background: #FFF;
+    margin: 20px;
+    .ant-calendar-picker{
+        height: 30px;
+        width: 200px;
+    }
+    .check-info{
+        margin-bottom: 10px;
+    }
+    .blue-btn{
+        padding: 0 20px;
+        margin-left: 10px;
+        background: #0cd3e8;
+        color: #fff;
+        border: 0;
+    }
+    // .station{
+    //     width: 200px;
+    //     margin: 0 10px;
+    // }
+    .station{
+        display: inline-block;
+        margin-right: 10px;
+    }
+}
